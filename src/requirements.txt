@@ -1,0 +1,3 @@
+wheel
+prometheus-client
+pyserial
